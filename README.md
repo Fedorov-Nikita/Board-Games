@@ -1,5 +1,10 @@
+[![License][badge-mit]][license]
+![Project-status][status-active]
+
 # Board-Games
 This is a project recommendation system for board games, based on information from boardgamegeek.com
+
+
 
 Steps:
 
@@ -18,3 +23,20 @@ Steps:
 - [ ] EDA
 - [ ] Feature engineering
 - [ ] Get baseline model
+
+
+
+[status-active]: https://img.shields.io/badge/project%20status-active-brightgreen?style=for-the-badge&logo=appveyor.svg
+[status-on-hold]: https://img.shields.io/badge/project%20status-on%20hold-yellow?style=for-the-badge&logo=appveyor.svg
+[status-completed]: https://img.shields.io/badge/project%20status-completed-blueviolet?style=for-the-badge&logo=appveyor.svg
+[status-cancelled]: https://img.shields.io/badge/project%20status-cancelled-red?style=for-the-badge&logo=appveyor.svg
+[badge-mit]: https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=appveyor.svg
+[license]: https://github.com/Fedorov-Nikita/Board-Games/blob/main/LICENSE.md
+
+<!---
+
+![Project-status][status-on-hold]
+![Project-status][status-completed]
+![Project-status][status-cancelled]
+
+--->
