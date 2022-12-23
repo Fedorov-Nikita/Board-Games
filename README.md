@@ -2,7 +2,7 @@
 ![Project-status][status-active]
 
 # Board-Games
-This is a project recommendation system for board games, based on information from boardgamegeek.com
+This is a project of recommendation system for board games, based on information from boardgamegeek.com
 
 
 
@@ -10,9 +10,9 @@ Steps:
 
 - [ ] Scrap users' & boardgames' data from BoardGameGeek.com
   - [x] Finish 1st iteration of scrapping boardgames' data from BoardGameGeek.com (2022-12-18 to 2022-12-21)
-  - [ ] 1st scrapping cycle:
+  - [ ] 1st scrapping cycle (2022-12-20 to 2022-12- ):
     - Scrap nicknames from site BoardGameGeek.com (english-speaking countries: USA, Canada, United Kingdom, Australia, New Zealand, Scotland, Wales, England, Israel)
-    - Scrap collections from API using nicknames
+    - Scrap users' ratings using nicknames
     - Scrap boardgames info using ids from users collections
   - [ ] Repeat scrapping cycle using nicknames users from Europe
   - [ ] Repeat scrapping cycle using nicknames users from Middle East
