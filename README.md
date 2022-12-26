@@ -10,10 +10,10 @@ Steps:
 
 - [ ] Scrap users' & boardgames' data from BoardGameGeek.com
   - [x] Finish 1st iteration of scrapping boardgames' data from BoardGameGeek.com (2022-12-18 to 2022-12-21)
-  - [ ] 1st scrapping cycle (2022-12-20 to 2022-12- ):
-    - Scrap nicknames from site BoardGameGeek.com (english-speaking countries: USA, Canada, United Kingdom, Australia, New Zealand, Scotland, Wales, England, Israel)
-    - Scrap users' ratings using nicknames
-    - Scrap boardgames info using ids from users collections
+  - [ ] 1st scrapping cycle:
+    - Scrap nicknames from site BoardGameGeek.com (english-speaking countries: USA, Canada, United Kingdom, Australia, New Zealand, Scotland, Wales, England, Israel) (2022-12-20 to 2022-12-25)
+    - Scrap users' ratings using nicknames (2022-12-20 to 2022-12-)
+    - Scrap boardgames info using ids from users collections (2022-12- to 2022-12-)
   - [ ] Repeat scrapping cycle using nicknames users from Europe
   - [ ] Repeat scrapping cycle using nicknames users from Middle East
   - [ ] Repeat scrapping cycle using nicknames users from Asia
