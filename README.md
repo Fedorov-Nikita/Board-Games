@@ -13,13 +13,11 @@ Steps:
   - [ ] 1st scrapping cycle:
     - Scrap nicknames from site BoardGameGeek.com (english-speaking countries: USA, Canada, United Kingdom, Australia, New Zealand, Scotland, Wales, England, Israel) (2022-12-20 to 2022-12-25)
     - Scrap users' ratings using nicknames (2022-12-20 to 2022-12-)
-    - Scrap boardgames info using ids from users collections (2022-12- to 2022-12-)
-  - [ ] Repeat scrapping cycle using nicknames users from Europe
-  - [ ] Repeat scrapping cycle using nicknames users from Middle East
-  - [ ] Repeat scrapping cycle using nicknames users from Asia
-  - [ ] Repeat scrapping cycle using nicknames users from South America
-  - [ ] Repeat scrapping cycle using nicknames users from Africa
-  - [ ] Repeat scrapping cycle using nicknames users from ...
+    - Scrap boardgames info using ids from users collections (2023- to 2023-)
+  - [ ] Repeat scrapping cycle using nicknames users 
+    - Scrap all nicknames from site BoardGameGeek.com (2022-12-25 to 2022-12-27)
+    - Scrap all users' ratings using nicknames (2023-01 to 2023-)
+    - Scrap all boardgames info using ids from users collections (2023- to 2023- )
 - [ ] EDA
 - [ ] Feature engineering
 - [ ] Get baseline model
