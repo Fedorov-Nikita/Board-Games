@@ -10,13 +10,13 @@ Steps:
 
 - [ ] Scrap users' & boardgames' data from BoardGameGeek.com
   - [x] Finish 1st iteration of scrapping boardgames' data from BoardGameGeek.com (2022-12-18 to 2022-12-21)
-  - [ ] 1st scrapping cycle:
+  - [x] 1st scrapping cycle:
     - Scrap nicknames from site BoardGameGeek.com (english-speaking countries: USA, Canada, United Kingdom, Australia, New Zealand, Scotland, Wales, England, Israel) (2022-12-20 to 2022-12-25)
-    - Scrap users' ratings using nicknames (2022-12-20 to 2022-12-)
-    - Scrap boardgames info using ids from users collections (2023- to 2023-)
+    - Scrap users' ratings using nicknames (2022-12-20 to 2023-01-15)
+    - Scrap boardgames info using ids from users collections (2023-01-16 to 2023-01-16)
   - [ ] Repeat scrapping cycle using nicknames users 
     - Scrap all nicknames from site BoardGameGeek.com (2022-12-25 to 2022-12-27)
-    - Scrap all users' ratings using nicknames (2023-01 to 2023-)
+    - Scrap all users' ratings using nicknames (2023-01-16 to 2023-)
     - Scrap all boardgames info using ids from users collections (2023- to 2023- )
 - [ ] EDA
 - [ ] Feature engineering
