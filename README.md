@@ -7,7 +7,7 @@
 
 <img src="boardgame-shelf.png" alt="BoardGames">
 
-<h1>Board Games Recomendation System</h1>
+<h1>Board Games Recommendation System</h1>
 <p>This is a project of recommendation system for board games, based on information from boardgamegeek.com</p>
 
 <p> :hammer_and_wrench: Realised: data scraping, collaborative filtering, item-based recommendation, hybrid recommendation system.<p> 
