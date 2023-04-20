@@ -2,3 +2,4 @@
 .DS_Store
 data/*
 recomendation_templates.ipynb
+venv/*
