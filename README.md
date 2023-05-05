@@ -5,6 +5,12 @@
 [![License][badge-mit]][license]
 ![Project-status][status-active]
 
+[![badge-scraper]][scraper-repo]
+
+
+
+
+
 <img src="boardgame-shelf.png" alt="BoardGames">
 
 <h1>Board Games Recommendation System</h1>
@@ -36,10 +42,16 @@
 
 [badge-colab]: https://img.shields.io/badge/open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
 [colab]: https://drive.google.com/
-[badge-demo]: https://img.shields.io/badge/try%20demo-525252?style=for-the-badge&logo=Streamlit
-[demo]: https://streamlit.io/
+[badge-demo]: https://img.shields.io/badge/try%20demo%20bot-525252?style=for-the-badge&logo=telegram
+[demo]: sad
+[badge-bot]: https://img.shields.io/badge/bot%20repository-525252?style=for-the-badge&logo=gitlab
+[bot-repo]: https://gitlab.com
+[badge-scraper]: https://img.shields.io/badge/scraper%20repository-525252?style=for-the-badge&logo=github
+[scraper-repo]: https://github.com/Fedorov-Nikita/Board-Game-Scraper
 
 <!---
+[![badge-demo]][demo]
+[![badge-bot]][bot-repo]
 
 ![Project-status][status-on-hold]
 ![Project-status][status-completed]
